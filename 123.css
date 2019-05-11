@@ -1,0 +1,31 @@
+.color-red{
+ background-color: #bd7998;
+ opacity:50%;
+}
+
+.align-center{
+  text-align:center;
+}
+
+.color-green{
+ background-color: #c0dcc0;
+ opacity:50%;
+}
+
+.color-yellow{
+ background-color: #d7d7d7;
+ opacity:50%;
+}
+
+.color-blue{
+ background-color: #7fb5b5;
+ opacity:50%;
+}
+
+.margin{
+  margin: 50px 100px 0px 100px
+}
+
+.background{
+  background-color: #876c99
+}
